@@ -49,7 +49,7 @@ input: /graph f(x)=x^2+4x+4, -20, 20, -20, 20
 
 <b>/kick</b> - will be interpreted as ‘/disconnect’
 
-/minmax - will find and display the maximums, minimums, and the inflection points; if applicable, returns absolute max and absolute min
+<b>/minmax</b> - will find and display the maximums, minimums, and the inflection points; if applicable, returns absolute max and absolute min
 	e.g.
 	input: /minmax y=x^4+10x^3+23x^2-34x-120
 	output: Local maxes at: -3.44
