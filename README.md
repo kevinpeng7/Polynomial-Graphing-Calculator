@@ -76,3 +76,4 @@ If the parameters for the window size are not specified, a window size will be g
 To close the graphing window, the user can give the command ‘/disconnect’ at any time.
 An example of the graphing function is as follows:
 /graph x^8+ 8x^7 - 111x^6 -792x^5 + 4371x^4 + 23520x^3 -70117x^2-192080x + 235200,-9,9,-350000,900000
+![alt tag](https://github.com/kevinpeng7/Polynomial-Graphing-Calculator/blob/master/src/main/java/binchat/graphing/graph.png)
